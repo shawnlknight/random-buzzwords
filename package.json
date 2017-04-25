@@ -1,0 +1,16 @@
+{
+  "name": "random-buzzwords",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "buzzwords": "^1.1.0",
+    "unique-random-array": "^1.0.0"
+  }
+}
