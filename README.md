@@ -1,6 +1,12 @@
 # Random Buzzword Generator
 
-Install via npm
+```
+git clone repo
+npm install
+```
+
+
+NPM install module
 ```
 npm install random-buzzwords --save
 ```
